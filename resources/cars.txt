@@ -1,0 +1,15 @@
+Honda Accord=2500
+Honda Civic=2000
+Mercedes C180=3000
+Audi A3=2500
+Audi A4=3000
+BMW 320i=3200
+Chevrolet Aveo=1000
+Vaz 2106=100
+Lada Granta=150
+BMW X6=6000
+Mercedes S500=7000
+Audi A8=6800
+Mazda 3=2200
+Mazda 6=2500
+Opel Astra J=2300
